@@ -9,16 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IshNekittt/nodejs-hw-mongodb.git"
+    "url": "git+https://github.com/VH-str/nodejs-hw-mongodb.git"
   },
   "keywords": [],
-  "author": "Nikita Ishchenko <nikitaishchenko334@gmail.com>",
+  "author": "V H <77taxman77@gmail.com>",
   "license": "ISC",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/IshNekittt/nodejs-hw-mongodb/issues"
+    "url": "https://github.com/VH-str/nodejs-hw-mongodb/issues"
   },
-  "homepage": "https://github.com/IshNekittt/nodejs-hw-mongodb#readme",
+  "homepage": "https://github.com/VH-str/nodejs-hw-mongodb#readme",
   "devDependencies": {
     "@eslint/js": "^9.21.0",
     "eslint": "^9.21.0",
