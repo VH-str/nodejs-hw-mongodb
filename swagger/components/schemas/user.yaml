@@ -1,0 +1,27 @@
+title: User
+type: object
+required:
+  - _id
+  - name
+  - email
+  - password
+properties:
+  _id:
+    description: "User's id"
+    type: string
+    example: 65e4decdd286b30065d54af9
+  name:
+    description: "User's name"
+    type: string
+    example: 'John Doe'
+    minLength: 3
+    maxLength: 20
+  email:
+    description: "User's email"
+    type: string
+    example: 'email@example.com'
+  password:
+    description: "Hashed user's password"
+    type: string
+    example: '$2b$10$.XQYrEisAl.2xW9Bp1j65uPJvIXxM48zGRR5MmrnsaWjmRhGHR39S'
+    writeOnly: true
